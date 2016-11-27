@@ -1,0 +1,1 @@
+# Windows-DPI-Aware-Manifest
