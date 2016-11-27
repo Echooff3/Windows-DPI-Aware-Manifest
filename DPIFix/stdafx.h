@@ -6,9 +6,12 @@
 #pragma once
 
 #include "targetver.h"
-
-#include <stdio.h>
-#include <tchar.h>
+#include <windows.h>
+#include <Winreg.h>
+#include <fstream>
+#include <string>
+#include <iostream>
+using namespace std;
 
 
 
